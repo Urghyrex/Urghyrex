@@ -60,6 +60,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Urghyrex/HTB/pull/1) in [Urghyrex/HTB](https://github.com/Urghyrex/HTB)
+2. 💪 Opened PR [#1](https://github.com/Urghyrex/HTB/pull/1) in [Urghyrex/HTB](https://github.com/Urghyrex/HTB)
 <!--END_SECTION:activity-->
 
 </details>
