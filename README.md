@@ -88,6 +88,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Urghyrex's GitHub Stats" src="hhttps://github-readme-stats.vercel.app/api?username=urghyrex&theme=discord_old_blurple" />
   <img align="left" alt="Urghyrex's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urghyrex&theme=dark&layout=compact" />
 
 </details>
