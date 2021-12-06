@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Dito. | YouTube" width="150px" src="https://img.shields.io/badge/Youtube-black.svg?style=for-the-badge&logo=Youtube" />][youtube]
 [<img align="left" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />][twitter]
-[<img align="left" alt="Dito. | Instagram" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Instagram" />][instagram]
+[<img align="left" alt="Dito. | Instagram" width="150px" src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram" />][instagram]
 
 <br></br>
 
@@ -88,17 +88,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Urghyrex's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urghyrex&theme=dark&layout=compact" />
 
 </details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/ditoa
+[youtube]: https://www.youtube.com/channel/UCEIuy7JPKmcAtBSY2fAeCTQ
+[instagram]: https://instagram.com/dito.hd
