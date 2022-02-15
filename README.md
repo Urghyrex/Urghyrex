@@ -1,4 +1,4 @@
-<div style="display: inline-block; text-align: left;"><pre><center> <img src="https://raw.githubusercontent.com/aster-max/aster-max/main/octocat.gif" width="100"></center>	
+<div style="display: inline-block; text-align: left;"><pre>[<img align="center" alt="Dito. | YouTube" width="150px" src="https://raw.githubusercontent.com/aster-max/aster-max/main/octocat.gif" />][]
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │     MAIN     │  PenTesting  │    BLOG     │    TWITTER     │     TEAM     │
 └──────────────────────────────────────────────────────────────────────────────┘
