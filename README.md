@@ -23,6 +23,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade Debian to Parrot](https://dev.to/urghyrex/upgrade-debian-to-parrot-277c)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/urghyrex)
