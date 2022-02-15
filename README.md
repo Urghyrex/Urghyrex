@@ -2,7 +2,7 @@
 
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│     MAIN     │    WEBSITE   │    BLOG     │    TWITTER     │      TEAM       │
+│     [MAIN](https://github.com/Urghyrex)     │    [WEBSITE]()   │    [BLOG](https://dev.to/urghyrex)     │    [TWITTER](https://twitter.com/ditoa)     │      [TEAM](https://banjarbarukota.go.id)       │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 
