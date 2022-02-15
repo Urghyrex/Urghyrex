@@ -1,6 +1,6 @@
 <div style="display: inline-block; text-align: left;"><pre><center> <img src="https://raw.githubusercontent.com/aster-max/aster-max/main/octocat.gif" width="100"></center>	
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│<a href="https://o.mg.lol/">     MAIN     </a>│<a href="https://o.mg.lol/setup">  PRODUCT SETUP  </a>│<a href="https://mg.lol/">    BLOG     </a>│<a href="https://twitter.com/MischiefGadgets">    TWITTER     </a>│<a href="https://o.mg.lol/team">     TEAM     </a>│
+│     MAIN     │  PenTesting  │    BLOG     │    TWITTER     │     TEAM     │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 
