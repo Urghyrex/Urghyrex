@@ -1,7 +1,5 @@
 <div style="display: inline-block; text-align: center;"><pre>
 
-[<img align="center" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />][twitter]
-
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -11,10 +9,10 @@
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │ 
-│                                   HARDWARE                                   │ 
+│                                   About Me                                   │ 
 │                                                                              │ 
-│                                                                              │ 
-│  O.MG Cable - USB-C ..............................................           │
+|  -- Name : Dito                                                              |
+|   └-- Learning [@stmik_banjarbaru](https://www.stmik-banjarbaru.ac.id/)      |
 │                                                                              │
 │                                                                              │ 
 └──────────────────────────────────────────────────────────────────────────────┘ 
