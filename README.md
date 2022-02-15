@@ -1,4 +1,7 @@
-<div style="display: inline-block; text-align: left;"><pre> <img align="center" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />
+<div style="display: inline-block; text-align: left;"><pre>
+
+<img align="center" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />
+
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -25,6 +28,7 @@
 │                                                                              │
 │  Music by KANGA ..................................................           │
 │                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘``
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 </pre></div>
