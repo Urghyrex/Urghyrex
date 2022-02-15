@@ -1,6 +1,6 @@
 <div style="display: inline-block; text-align: left;"><pre>
 
-[<img align="left" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />][twitter]
+[<img align="center" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />][twitter]
 
 
 ```
