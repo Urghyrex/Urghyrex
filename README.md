@@ -12,7 +12,7 @@
 │                                                                              │ 
 |  -- Name : Dito                                                              |
 |   └-- Learning [@stmik_banjarbaru](https://www.stmik-banjarbaru.ac.id/)                                             |
-│                                                                              │
+│     └-- Working at the city branch of the Ministry of Communication and Information as a Cyber Security Researcher |
 │                                                                              │ 
 └──────────────────────────────────────────────────────────────────────────────┘ 
 
