@@ -11,7 +11,7 @@
 │                                   About Me                                   │ 
 │                                                                              │ 
 |  -- Name : Dito                                                              |
-|   └-- Learning [@stmik_banjarbaru](https://www.stmik-banjarbaru.ac.id/)      |
+|   └-- Learning [@stmik_banjarbaru](https://www.stmik-banjarbaru.ac.id/)                                             |
 │                                                                              │
 │                                                                              │ 
 └──────────────────────────────────────────────────────────────────────────────┘ 
