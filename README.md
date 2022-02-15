@@ -1,6 +1,8 @@
-<div style="display: inline-block; text-align: left;"><pre>[<img align="center" alt="Dito. | YouTube" width="150px" src="https://raw.githubusercontent.com/aster-max/aster-max/main/octocat.gif" />][]
+<div style="display: inline-block; text-align: left;"><pre> <img align="center" alt="Dito. | Twitter" width="150px" src="https://img.shields.io/badge/Twitter-black.svg?style=for-the-badge&logo=Twitter" />
+
+```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│     MAIN     │  PenTesting  │    BLOG     │    TWITTER     │     TEAM     │
+│     MAIN     │    WEBSITE   │    BLOG     │    TWITTER     │      TEAM       │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 
@@ -9,34 +11,8 @@
 │                                   HARDWARE                                   │ 
 │                                                                              │ 
 │                                                                              │ 
-│  O.MG Cable - USB-C .............................................. [<a href="https://shop.hak5.org/products/o-mg-cable-usb-c"> LINK </a>]  │
-│                |                                                             │
-│                └--- Smaller. More powerful. Longer range.                    │
-│                     Standard or Keylogger Edition.                           │ 
-│                                                                              │ 
-│  O.MG Cable - C to C Directional ................................. [<a href="https://shop.hak5.org/products/o-mg-cable-c-to-c-directional"> LINK </a>]  │
-│                |                                                             │
-│                └--- Built for demos, training, &amp; attacker controlled attacks.│
-│                     Explore new attacks on smartphones &amp; tablets.            │
-│                     Standard or Keylogger Edition.                           │ 
-│                                                                              │ 
-│  O.MG Cable - USB-A .............................................. [<a href="https://shop.hak5.org/products/o-mg-cable-usb-a"> LINK </a>]  │
-│                |                                                             │
-│                └--- The original. Full wireless control in a USB cable.      │
-│                     Standard or Keylogger Edition.                           │ 
+│  O.MG Cable - USB-C ..............................................           │
 │                                                                              │
-│  O.MG Plug ........ .............................................. [<a href="https://shop.hak5.org/products/omg-plug"> LINK </a>]  │
-│                |                                                             │
-│                └--- Deploy DuckyScript™ payloads from your keychain.         │
-│                     Control via web browser using the modified O.MG Cable UI.│
-│                                                                              │ 
-│  O.MG DemonSeedEDU ............................................... [<a href="https://shop.hak5.org/collections/mischief-gadgets/products/o-mg-demonseed-edu"> LINK </a>]  │
-│                |                                                             │
-│                └--- Educational kit for DIY implanting USB cables.           │
-│                                                                              │ 
-│  Malicious Cable Detector ........................................ [<a href="https://shop.hak5.org/collections/mischief-gadgets/products/malicious-cable-detector-by-o-mg"> LINK </a>]  │
-│                |                                                             │
-│                └--- We create the problem... and the solution.               │
 │                                                                              │ 
 └──────────────────────────────────────────────────────────────────────────────┘ 
 
@@ -45,10 +21,9 @@
 │                                     ART                                      │
 │                                                                              │
 │                                                                              │
-│  Designs by Dustrial ............................................. [<a href="https://dustrial.net/collections/omg"> LINK </a>]  │
+│  Designs by Dustrial .............................................           │
 │                                                                              │
-│  Music by KANGA .................................................. [<a href="https://kanga-omg.bandcamp.com/track/monster"> LINK </a>]  │
+│  Music by KANGA ..................................................           │
 │                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-
+└──────────────────────────────────────────────────────────────────────────────┘``
 </pre></div>
