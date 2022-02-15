@@ -15,7 +15,7 @@
 │     └-- Working at the city branch of the Ministry of                        |
 |         Communication and Information as a Cyber Security Researcher         |
 |  -- Penestration Tester Junior and Full Stack Developer                      |
-|   └-- \#Salam_Satu_Data                                                      |
+|   └-- \#Salam_Satu_Data                                                       |
 │                                                                              │ 
 └──────────────────────────────────────────────────────────────────────────────┘ 
 
@@ -36,7 +36,7 @@
 |                              Latest Blog Posts                               |
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-|  [more blog posts...](https://dev.to/urghyrex)                                     |
+|  [more blog posts...](https://dev.to/urghyrex)                                              |
 |                                                                              |
 └──────────────────────────────────────────────────────────────────────────────┘
 
